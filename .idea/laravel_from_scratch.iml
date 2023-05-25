@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/html/tests" isTestSource="true" packagePrefix="Tests\" />
       <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/html/spec" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/html/vendor/hamcrest/hamcrest-php" />
       <excludeFolder url="file://$MODULE_DIR$/html/vendor/ramsey/collection" />
       <excludeFolder url="file://$MODULE_DIR$/html/vendor/ramsey/uuid" />
