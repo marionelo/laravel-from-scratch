@@ -10,13 +10,14 @@
     <link rel="stylesheet" href="/app.css?123">
 </head>
 <body>
-    @foreach ($posts as $key => $post)
-        <article>
-            <h1><a href="/post/{{ $key }}">{{ $post->title }}</a></h1>
-            <p>
-                {{ $post->content }}
-            </p>
-        </article>
-    @endforeach
+
+    <article>
+        <h1><a href="/post">{{ $post->title }}</a></h1>
+        <p>
+            {{ $post->content }}
+        </p>
+    </article>
+
+    <a href="/">Go Back</a>
 </body>
 </html>
