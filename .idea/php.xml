@@ -118,6 +118,7 @@
       <path value="$PROJECT_DIR$/html/vendor/psr/http-client" />
       <path value="$PROJECT_DIR$/html/vendor/egulias/email-validator" />
       <path value="$PROJECT_DIR$/html/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/html/vendor/itsgoingd/clockwork" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />

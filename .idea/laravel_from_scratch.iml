@@ -116,6 +116,7 @@
       <excludeFolder url="file://$MODULE_DIR$/html/vendor/psr/http-client" />
       <excludeFolder url="file://$MODULE_DIR$/html/vendor/egulias/email-validator" />
       <excludeFolder url="file://$MODULE_DIR$/html/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/html/vendor/itsgoingd/clockwork" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
